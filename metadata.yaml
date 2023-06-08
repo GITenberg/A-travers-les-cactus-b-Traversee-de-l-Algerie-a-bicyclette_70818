@@ -1,0 +1,34 @@
+_repo: A-travers-les-cactus-b-Traversee-de-l-Algerie-a-bicyclette_70818
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Perrodil, Édouard de
+    alias: Perrodil, Edouard de
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '55936'
+    url: http://www.gutenberg.org/2009/agents/55936
+description: ''
+gutenberg_issued: '2023-05-20'
+identifiers:
+  gutenberg: '70818'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k56030649
+pgterms:marc905: 20220725132305perrodil
+pgterms:marc906: '1896'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bErnest Flammarion, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Travel'
+- !lcsh 'Algeria -- Description and travel'
+- !lcsh 'Cycling'
+- !lcc 'DT'
+- GITenberg
+title: 'A travers les cactus : $b Traversée de l''Algérie à bicyclette'
+url: http://www.gutenberg.org/ebooks/70818
